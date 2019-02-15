@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\APP_FIZZ_FUZZ\APP_FIZZ_FUZZ\bin\Debug\APP_FIZZ_FUZZ.exe.config
+C:\Users\KOFFI\source\repos\APP_FIZZ_FUZZ\APP_FIZZ_FUZZ\bin\Debug\APP_FIZZ_FUZZ.exe
+C:\Users\KOFFI\source\repos\APP_FIZZ_FUZZ\APP_FIZZ_FUZZ\bin\Debug\APP_FIZZ_FUZZ.pdb
+C:\Users\KOFFI\source\repos\APP_FIZZ_FUZZ\APP_FIZZ_FUZZ\obj\Debug\APP_FIZZ_FUZZ.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\APP_FIZZ_FUZZ\APP_FIZZ_FUZZ\obj\Debug\APP_FIZZ_FUZZ.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\APP_FIZZ_FUZZ\APP_FIZZ_FUZZ\obj\Debug\APP_FIZZ_FUZZ.exe
+C:\Users\KOFFI\source\repos\APP_FIZZ_FUZZ\APP_FIZZ_FUZZ\obj\Debug\APP_FIZZ_FUZZ.pdb
